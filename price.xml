@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE type="get_pricelist">
+ <PRICELIST>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Чкаловской" period="&quot;1 год&quot;" days="365" club_num="13" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Энгельса" period="&quot;1 год&quot;" days="365" club_num="30" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Гатчине" period="&quot;1 год&quot;" days="365" club_num="31" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Дальневосточном" period="&quot;1 год&quot;" days="365" club_num="56" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Маршала Говорова" period="&quot;1 год&quot;" days="365" club_num="69" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Профессора Попова (ЛДМ)" period="&quot;1 год&quot;" days="365" club_num="37" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Наставников" period="&quot;1 год&quot;" days="365" club_num="22" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Петергофе" period="&quot;1 год&quot;" days="365" club_num="64" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Светлановском" period="&quot;1 год&quot;" days="365" club_num="27" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Мебельной" period="&quot;1 год&quot;" days="365" club_num="62" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Васильевском" period="&quot;1 год&quot;" days="365" club_num="25" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Ульяновск Созидателей" period="&quot;1 год&quot;" days="365" club_num="102" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="7600"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ветеранов" period="&quot;1 год&quot;" days="365" club_num="77" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="свободное посещение" club="FH Казань Спартаковский" period="&quot;1 год&quot;" days="365" club_num="84" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Девяткино" period="&quot;1 год&quot;" days="365" club_num="18" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ладожской" period="&quot;1 год&quot;" days="365" club_num="26" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="свободное посещение" club="FH Казань Габишева" period="&quot;1 год&quot;" days="365" club_num="86" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Левашовском" period="&quot;1 год&quot;" days="365" club_num="40" type="(Акция) Мультикарта FH&amp;Prestige (LUX) 1 год &quot;Молодежный&quot; (девушки 18-25 лет) ps" price="61000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пискаревском" period="&quot;1 год&quot;" days="365" club_num="23" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Савушкина" period="&quot;1 год&quot;" days="365" club_num="17" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Крестовском" period="&quot;1 год&quot;" days="365" club_num="32" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пулковском" period="&quot;1 год&quot;" days="365" club_num="12" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Лахте" period="&quot;1 год&quot;" days="365" club_num="16" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Комендантском" period="&quot;1 год&quot;" days="365" club_num="24" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Н.Новгород Московский" period="&quot;1 год&quot;" days="365" club_num="81" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="свободное посещение" club="FH Н.Новгород Цветы" period="&quot;1 год&quot;" days="365" club_num="85" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Софийской" period="&quot;1 год&quot;" days="365" club_num="78" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Фучика" period="&quot;1 год&quot;" days="365" club_num="68" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Северном" period="&quot;1 год&quot;" days="365" club_num="58" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Кудрово" period="&quot;1 год&quot;" days="365" club_num="54" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Большевиков" period="&quot;1 год&quot;" days="365" club_num="55" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Маршала Блюхера" period="&quot;1 год&quot;" days="365" club_num="79" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Культуры" period="&quot;1 год&quot;" days="365" club_num="29" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="свободное посещение" club="FH Н.Новгород Московский" period="&quot;1 год&quot;" days="365" club_num="81" type="Корпоративный, 1 год ps" agreediscount="65" price="36000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Стачек" period="&quot;1 год&quot;" days="365" club_num="15" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Краснопутиловской" period="&quot;1 год&quot;" days="365" club_num="59" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Пулковском" period="&quot;1 год&quot;" days="365" club_num="43" type="(Акция) 1 год Молодёжный (18 - 23 лет) ps" price="20000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Хошимина" period="&quot;1 год&quot;" days="365" club_num="42" type="(Акция) 1 год Молодёжный (18 - 23 лет) ps" price="20000"/>
+  <POSITION cardtime="свободное посещение" club="FH Тольятти Революционная" period="&quot;1 год&quot;" days="365" club_num="34" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Гашека" period="&quot;1 год&quot;" days="365" club_num="44" type="(Акция) 1 год Молодёжный (18 - 23 лет) ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Мурино" period="&quot;1 год&quot;" days="365" club_num="82" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Казань Спартаковский" period="&quot;1 год&quot;" days="365" club_num="84" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="20900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Бульваре Новаторов" period="&quot;1 год&quot;" days="365" club_num="35" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Н.Новгород Цветы" period="&quot;1 год&quot;" days="365" club_num="85" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="20900"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Королева" period="&quot;1 год&quot;" days="365" club_num="41" type="(Акция) 1 год Молодёжный (18 - 23 лет) ps" price="20000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Н.Новгород Московский" period="&quot;1 год&quot;" days="365" club_num="81" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="20900"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Казань Спартаковский" period="&quot;1 год&quot;" days="365" club_num="84" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="7600"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Н.Новгород Цветы" period="&quot;1 год&quot;" days="365" club_num="85" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="7600"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Н.Новгород Московский" period="&quot;1 год&quot;" days="365" club_num="81" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="7600"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Таллинском" period="&quot;1 год&quot;" days="365" club_num="67" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Гашека" period="&quot;1 год&quot;" days="365" club_num="38" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Тольятти Революционная" period="&quot;1 год&quot;" days="365" club_num="34" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Тольятти Революционная" period="&quot;1 год&quot;" days="365" club_num="34" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="15700"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Культуры" period="1 год (не более 100 визитов)" days="365" club_num="29" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Культуры" period="3 года" days="1095" club_num="29" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Культуры" period="2 года" days="730" club_num="29" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION cardtime="Утро" club="FH на Культуры" period="2 года" days="730" club_num="29" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION cardtime="свободное посещение" club="FH Ульяновск Созидателей" period="&quot;1 год&quot;" days="365" club_num="102" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Ульяновск Созидателей" period="&quot;1 год&quot;" days="365" club_num="102" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="20900"/>
+  <POSITION cardtime="свободное посещение" club="FH Архангельск Московский" period="&quot;1 год&quot;" days="365" club_num="101" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Архангельск Московский" period="&quot;1 год&quot;" days="365" club_num="101" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="20900"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Архангельск Московский" period="&quot;1 год&quot;" days="365" club_num="101" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="7600"/>
+  <POSITION cardtime="свободное посещение" club="FH Н.Новгород Московский" period="1 день (не более 1 визита)" days="1" club_num="81" type="1 день &quot;Победа&quot; ps" price="100"/>
+  <POSITION cardtime="свободное посещение" club="FH Ижевск Матрица" period="&quot;1 год&quot;" days="365" club_num="103" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Ижевск Матрица" period="&quot;1 год&quot;" days="365" club_num="103" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="20900"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Ижевск Матрица" period="&quot;1 год&quot;" days="365" club_num="103" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="7600"/>
+  <POSITION cardtime="свободное посещение" club="FH Самара Амбар" period="&quot;1 год&quot;" days="365" club_num="100" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Самара Амбар" period="&quot;1 год&quot;" days="365" club_num="100" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="20900"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Самара Амбар" period="&quot;1 год&quot;" days="365" club_num="100" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="7600"/>
+  <POSITION cardtime="свободное посещение" club="FH Ярославль Нагорный" period="&quot;1 год&quot;" days="365" club_num="104" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Ярославль Нагорный" period="&quot;1 год&quot;" days="365" club_num="104" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="20900"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Ярославль Нагорный" period="&quot;1 год&quot;" days="365" club_num="104" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="7600"/>
+  <POSITION cardtime="свободное посещение" club="FH Ярославль Нагорный" period="&quot;1 год&quot;" days="365" club_num="104" type="1 год VIP (только для мужчин) ps" agreediscount="40" price="60000"/>
+  <POSITION cardtime="свободное посещение" club="FH Ярославль Нагорный" period="2 года" days="730" club_num="104" type="2 года VIP (только для мужчин) ps" agreediscount="60" price="120000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Крестовском" period="&quot;1 год&quot;" days="365" club_num="32" type="(Акция) 1 год Молодёжный (18 - 23 лет) ps" price="20000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Крестовском" period="&quot;1 год&quot;" days="365" club_num="32" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="22500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Крестовском" period="&quot;1 год&quot;" days="365" club_num="32" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="10000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Выборгской наб." period="&quot;1 год&quot;" days="365" club_num="36" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Рыбацком" period="&quot;1 год&quot;" days="365" club_num="39" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ленинском" period="&quot;1 год&quot;" days="365" club_num="14" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пражской" period="&quot;1 год&quot;" days="365" club_num="28" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH в Кудрово" period="&quot;1 год&quot;" days="365" club_num="54" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="свободное посещение" club="FH на Хасанской" period="&quot;1 год&quot;" days="365" club_num="111" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="свободное посещение" club="FH Самара Амбар" period="&quot;1 год&quot;" days="365" club_num="100" type="1 год VIP ps" agreediscount="40" price="50000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Наличной" period="&quot;1 год&quot;" days="365" club_num="83" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Левашовском" period="&quot;1 год&quot;" days="365" club_num="40" type="(Акция) Пакет минимальный (при единовременной покупке 2-х и более пакетов 16 и более ПТ). Для детей с 14 до 16 лет (вкл.) ps" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Хасанской" period="&quot;1 год&quot;" days="365" club_num="111" type="Спец.предложение 1 год. Без права переоформления ps" price="9900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ленинском" period="2 года" days="730" club_num="14" type="Акция -70% (на 2-ой год ) ps" price="26000"/>
+  <POSITION cardtime="свободное посещение" club="FH Петрозаводск Лесной" period="&quot;1 год&quot;" days="365" club_num="106" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Петрозаводск Лесной" period="&quot;1 год&quot;" days="365" club_num="106" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="20900"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Петрозаводск Лесной" period="&quot;1 год&quot;" days="365" club_num="106" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="7600"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пулковском" period="2 года" days="730" club_num="12" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Левашовском" period="&quot;1 год&quot;" days="365" club_num="40" type="(Акция) Мультикарта FH&amp;Prestige (LUX) 1 год Персональный ps" price="90000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Левашовском" period="1 год (не более 100 визитов)" days="365" club_num="40" type="Мультикарта FH&amp;Prestige (LUX) 1 год (не более 100 визитов) ps" price="95000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Левашовском" period="&quot;1 год&quot;" days="365" club_num="40" type="Мультикарта FH&amp;Prestige (LUX) 1 год ps" agreediscount="5" price="105000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Prestige на Хошимина" period="1 год (не более 100 визитов)" days="365" club_num="42" type="Акция 1 год (не более 100 визитов). ps" price="25000"/>
+  <POSITION cardtime="свободное посещение" club="FH в Охта Молле" period="&quot;1 год&quot;" days="365" club_num="112" type="Предпродажа в клуб в Охта Молле, 1 год и Сервисный пакет №1 ps" price="19700"/>
+  <POSITION cardtime="свободное посещение" club="FH в Охта Молле" period="&quot;1 год&quot;" days="365" club_num="112" type="Предпродажа в клуб в Охта Молле, 1 год и Сервисный пакет №2 ps" price="17800"/>
+  <POSITION cardtime="свободное посещение" club="FH в Охта Молле" period="&quot;1 год&quot;" days="365" club_num="112" type="Предпродажа в клуб в Охта Молле, 1 год и Сервисный пакет №3 ps" price="14300"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Рыбацком" period="2 года" days="730" club_num="39" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Пулковском" period="&quot;1 год&quot;" days="365" club_num="12" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH в Рыбацком" period="&quot;1 год&quot;" days="365" club_num="39" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Хасанской" period="2 года" days="730" club_num="111" type="Акция -70% (на 2-ой год ) ps" price="26000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Рыбацком" period="3 года" days="1095" club_num="39" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Хасанской" period="&quot;1 год&quot;" days="365" club_num="111" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="15700"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Пулковском" period="&quot;1 год&quot;" days="365" club_num="12" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH в Рыбацком" period="&quot;1 год&quot;" days="365" club_num="39" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Хасанской" period="&quot;1 год&quot;" days="365" club_num="111" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Краснопутиловской" period="&quot;1 год&quot;" days="365" club_num="59" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Наличной" period="&quot;1 год&quot;" days="365" club_num="83" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Маршала Блюхера" period="&quot;1 год&quot;" days="365" club_num="79" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH в Кудрово" period="&quot;1 год&quot;" days="365" club_num="54" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Ветеранов" period="&quot;1 год&quot;" days="365" club_num="77" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Краснопутиловской" period="&quot;1 год&quot;" days="365" club_num="59" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Наличной" period="&quot;1 год&quot;" days="365" club_num="83" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Маршала Блюхера" period="&quot;1 год&quot;" days="365" club_num="79" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Ветеранов" period="&quot;1 год&quot;" days="365" club_num="77" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Северном" period="&quot;1 год&quot;" days="365" club_num="58" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH в Мурино" period="&quot;1 год&quot;" days="365" club_num="82" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Северном" period="&quot;1 год&quot;" days="365" club_num="58" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH в Мурино" period="&quot;1 год&quot;" days="365" club_num="82" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Фучика" period="&quot;1 год&quot;" days="365" club_num="68" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Стачек" period="&quot;1 год&quot;" days="365" club_num="15" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Дальневосточном" period="&quot;1 год&quot;" days="365" club_num="56" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Профессора Попова (ЛДМ)" period="&quot;1 год&quot;" days="365" club_num="37" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="15700"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Стачек" period="&quot;1 год&quot;" days="365" club_num="15" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Фучика" period="&quot;1 год&quot;" days="365" club_num="68" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Дальневосточном" period="&quot;1 год&quot;" days="365" club_num="56" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Профессора Попова (ЛДМ)" period="&quot;1 год&quot;" days="365" club_num="37" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Маршала Говорова" period="&quot;1 год&quot;" days="365" club_num="69" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="15700"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Маршала Говорова" period="&quot;1 год&quot;" days="365" club_num="69" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Таллинском" period="&quot;1 год&quot;" days="365" club_num="67" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Таллинском" period="&quot;1 год&quot;" days="365" club_num="67" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Пражской" period="&quot;1 год&quot;" days="365" club_num="28" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="15700"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Ленинском" period="&quot;1 год&quot;" days="365" club_num="14" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="15700"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH в Лахте" period="&quot;1 год&quot;" days="365" club_num="16" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Ленинском" period="&quot;1 год&quot;" days="365" club_num="14" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Пражской" period="&quot;1 год&quot;" days="365" club_num="28" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Большевиков" period="&quot;1 год&quot;" days="365" club_num="55" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH в Лахте" period="&quot;1 год&quot;" days="365" club_num="16" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Чкаловской" period="&quot;1 год&quot;" days="365" club_num="13" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Большевиков" period="&quot;1 год&quot;" days="365" club_num="55" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH в Гатчине" period="&quot;1 год&quot;" days="365" club_num="31" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="15700"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Чкаловской" period="&quot;1 год&quot;" days="365" club_num="13" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Софийской" period="&quot;1 год&quot;" days="365" club_num="78" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="15700"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Бульваре Новаторов" period="&quot;1 год&quot;" days="365" club_num="35" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH в Гатчине" period="&quot;1 год&quot;" days="365" club_num="31" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Софийской" period="&quot;1 год&quot;" days="365" club_num="78" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Бульваре Новаторов" period="&quot;1 год&quot;" days="365" club_num="35" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH в Девяткино" period="&quot;1 год&quot;" days="365" club_num="18" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Комендантском" period="&quot;1 год&quot;" days="365" club_num="24" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH в Девяткино" period="&quot;1 год&quot;" days="365" club_num="18" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Комендантском" period="&quot;1 год&quot;" days="365" club_num="24" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Мебельной" period="&quot;1 год&quot;" days="365" club_num="62" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Выборгской наб." period="&quot;1 год&quot;" days="365" club_num="36" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Ладожской" period="&quot;1 год&quot;" days="365" club_num="26" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Мебельной" period="&quot;1 год&quot;" days="365" club_num="62" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Выборгской наб." period="&quot;1 год&quot;" days="365" club_num="36" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Ладожской" period="&quot;1 год&quot;" days="365" club_num="26" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Энгельса" period="&quot;1 год&quot;" days="365" club_num="30" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Гашека" period="&quot;1 год&quot;" days="365" club_num="38" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Энгельса" period="&quot;1 год&quot;" days="365" club_num="30" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Гашека" period="&quot;1 год&quot;" days="365" club_num="38" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Савушкина" period="&quot;1 год&quot;" days="365" club_num="17" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Савушкина" period="&quot;1 год&quot;" days="365" club_num="17" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Культуры" period="&quot;1 год&quot;" days="365" club_num="29" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Культуры" period="&quot;1 год&quot;" days="365" club_num="29" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Пискаревском" period="&quot;1 год&quot;" days="365" club_num="23" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="17800"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH на Пискаревском" period="&quot;1 год&quot;" days="365" club_num="23" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="6500"/>
+  <POSITION cardtime="свободное посещение" club="FH в Охта Молле" period="&quot;1 год&quot;" days="365" club_num="112" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH в Петергофе" period="&quot;1 год&quot;" days="365" club_num="64" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Комендантском" period="&quot;1 год&quot;" days="365" club_num="24" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Ладожской" period="&quot;1 год&quot;" days="365" club_num="26" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH в Гатчине" period="&quot;1 год&quot;" days="365" club_num="31" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Пражской" period="&quot;1 год&quot;" days="365" club_num="28" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH в Светлановском" period="&quot;1 год&quot;" days="365" club_num="27" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Пискаревском" period="&quot;1 год&quot;" days="365" club_num="23" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Энгельса" period="&quot;1 год&quot;" days="365" club_num="30" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Маршала Говорова" period="&quot;1 год&quot;" days="365" club_num="69" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Бульваре Новаторов" period="&quot;1 год&quot;" days="365" club_num="35" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH в Рыбацком" period="&quot;1 год&quot;" days="365" club_num="39" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Таллинском" period="&quot;1 год&quot;" days="365" club_num="67" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Стачек" period="&quot;1 год&quot;" days="365" club_num="15" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Пулковском" period="&quot;1 год&quot;" days="365" club_num="43" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Большевиков" period="&quot;1 год&quot;" days="365" club_num="55" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Ветеранов" period="&quot;1 год&quot;" days="365" club_num="77" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Гашека" period="&quot;1 год&quot;" days="365" club_num="44" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Королева" period="&quot;1 год&quot;" days="365" club_num="41" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Савушкина" period="&quot;1 год&quot;" days="365" club_num="17" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Наставников" period="&quot;1 год&quot;" days="365" club_num="22" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Васильевском" period="&quot;1 год&quot;" days="365" club_num="25" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Мебельной" period="&quot;1 год&quot;" days="365" club_num="62" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Хасанской" period="&quot;1 год&quot;" days="365" club_num="111" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Выборгской наб." period="&quot;1 год&quot;" days="365" club_num="36" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Гашека" period="&quot;1 год&quot;" days="365" club_num="38" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Культуры" period="&quot;1 год&quot;" days="365" club_num="29" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH в Мурино" period="&quot;1 год&quot;" days="365" club_num="82" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH в Кудрово" period="&quot;1 год&quot;" days="365" club_num="54" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Левашовском" period="&quot;1 год&quot;" days="365" club_num="40" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Фучика" period="&quot;1 год&quot;" days="365" club_num="68" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Хошимина" period="&quot;1 год&quot;" days="365" club_num="42" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Маршала Блюхера" period="&quot;1 год&quot;" days="365" club_num="79" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Крестовском" period="&quot;1 год&quot;" days="365" club_num="32" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Дальневосточном" period="&quot;1 год&quot;" days="365" club_num="56" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Северном" period="&quot;1 год&quot;" days="365" club_num="58" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Наличной" period="&quot;1 год&quot;" days="365" club_num="83" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Краснопутиловской" period="&quot;1 год&quot;" days="365" club_num="59" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Профессора Попова (ЛДМ)" period="&quot;1 год&quot;" days="365" club_num="37" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Ленинском" period="&quot;1 год&quot;" days="365" club_num="14" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Пулковском" period="&quot;1 год&quot;" days="365" club_num="12" type="Предпродажа в клуб в Охта Молле, 1 год ps" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH в Лахте" period="&quot;1 год&quot;" days="365" club_num="16" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH в Девяткино" period="&quot;1 год&quot;" days="365" club_num="18" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Софийской" period="&quot;1 год&quot;" days="365" club_num="78" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Чкаловской" period="&quot;1 год&quot;" days="365" club_num="13" type="Предпродажа в клуб в Охта Молле, 1 год ps" agreediscount="60" price="35000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Культуры" period="&quot;1 год&quot;" days="365" club_num="29" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Королева" period="1 год (не более 100 визитов)" days="365" club_num="41" type="Акция 1 год (не более 100 визитов). ps" price="21900"/>
+  <POSITION cardtime="свободное посещение" club="FH на Крестовском" period="1 год (не более 100 визитов)" days="365" club_num="32" type="Акция 1 год (не более 100 визитов). ps" price="21900"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Гашека" period="1 год (не более 100 визитов)" days="365" club_num="44" type="1 год (не более 100 визитов). ps" price="31000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Пулковском" period="1 год (не более 100 визитов)" days="365" club_num="43" type="1 год (не более 100 визитов). ps" price="31000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Королева" period="&quot;1 год&quot;" days="365" club_num="41" type="(Акция) 1 год Персональный ps" price="20000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Хошимина" period="&quot;1 год&quot;" days="365" club_num="42" type="(Акция) 1 год Персональный ps" price="22000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Пулковском" period="&quot;1 год&quot;" days="365" club_num="43" type="(Акция) 1 год Персональный ps" price="26000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Крестовском" period="&quot;1 год&quot;" days="365" club_num="32" type="(Акция) 1 год Персональный ps" price="20000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Гашека" period="&quot;1 год&quot;" days="365" club_num="44" type="(Акция) 1 год Персональный ps" price="26000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Левашовском" period="2 года + 3 месяца в подарок" days="821" club_num="40" type="Мультикарта FH&amp;Prestige (LUX) 2 года + 3 месяца в подарок ps" agreediscount="20" price="210000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Архангельск Московский" period="&quot;1 год&quot;" days="365" club_num="101" type="1 год  ps" price="26000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Ярославль Нагорный" period="&quot;1 год&quot;" days="365" club_num="104" type="1 год  ps" price="26000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Ярославль Нагорный" period="1 год (не более 100 визитов)" days="365" club_num="104" type="1 год (не более 100 визитов) ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Архангельск Московский" period="1 год (не более 100 визитов)" days="365" club_num="101" type="1 год (не более 100 визитов) ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Казань Габишева" period="&quot;1 год&quot;" days="365" club_num="86" type="1 год  ps" price="13000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Н.Новгород Цветы" period="&quot;1 год&quot;" days="365" club_num="85" type="1 год  ps" price="26000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Ижевск Матрица" period="&quot;1 год&quot;" days="365" club_num="103" type="1 год  ps" price="22100"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Тольятти Революционная" period="&quot;1 год&quot;" days="365" club_num="34" type="1 год  ps" price="15600"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Н.Новгород Московский" period="&quot;1 год&quot;" days="365" club_num="81" type="1 год  ps" price="26000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Н.Новгород Цветы" period="1 год (не более 100 визитов)" days="365" club_num="85" type="1 год (не более 100 визитов) ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Ижевск Матрица" period="1 год (не более 100 визитов)" days="365" club_num="103" type="1 год (не более 100 визитов) ps" price="17000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Казань Габишева" period="1 год (не более 100 визитов)" days="365" club_num="86" type="1 год (не более 100 визитов) ps" price="10000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Петрозаводск Лесной" period="&quot;1 год&quot;" days="365" club_num="106" type="1 год  ps" price="26000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Тольятти Революционная" period="1 год (не более 100 визитов)" days="365" club_num="34" type="1 год (не более 100 визитов) ps" price="12000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Ульяновск Созидателей" period="&quot;1 год&quot;" days="365" club_num="102" type="1 год  ps" price="26000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Самара Амбар" period="&quot;1 год&quot;" days="365" club_num="100" type="1 год  ps" price="22100"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Н.Новгород Цветы" period="2 года" days="730" club_num="85" type="Акция -70% (на 2-ой год ) ps" price="33800"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Ижевск Матрица" period="2 года" days="730" club_num="103" type="Акция -70% (на 2-ой год ) ps" price="28700"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Казань Габишева" period="2 года" days="730" club_num="86" type="Акция -70% (на 2-ой год ) ps" price="16900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Ульяновск Созидателей" period="1 год (не более 100 визитов)" days="365" club_num="102" type="1 год (не более 100 визитов) ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Петрозаводск Лесной" period="1 год (не более 100 визитов)" days="365" club_num="106" type="1 год (не более 100 визитов) ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Н.Новгород Московский" period="1 год (не более 100 визитов)" days="365" club_num="81" type="1 год (не более 100 визитов) ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Тольятти Революционная" period="2 года" days="730" club_num="34" type="Акция -70% (на 2-ой год ) ps" price="20300"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Ярославль Нагорный" period="2 года" days="730" club_num="104" type="Акция -70% (на 2-ой год ) ps" price="33800"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Самара Амбар" period="1 год (не более 100 визитов)" days="365" club_num="100" type="1 год (не более 100 визитов) ps" price="17000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Н.Новгород Цветы" period="3 года" days="1095" club_num="85" type="Акция -80% (на 2ой и 3ий год) ps" price="36400"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Ижевск Матрица" period="3 года" days="1095" club_num="103" type="Акция -80% (на 2ой и 3ий год) ps" price="30900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Петрозаводск Лесной" period="2 года" days="730" club_num="106" type="Акция -70% (на 2-ой год ) ps" price="33800"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Казань Габишева" period="3 года" days="1095" club_num="86" type="Акция -80% (на 2ой и 3ий год) ps" price="18200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Ульяновск Созидателей" period="2 года" days="730" club_num="102" type="Акция -70% (на 2-ой год ) ps" price="33800"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Н.Новгород Московский" period="2 года" days="730" club_num="81" type="Акция -70% (на 2-ой год ) ps" price="33800"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Казань Спартаковский" period="&quot;1 год&quot;" days="365" club_num="84" type="1 год  ps" price="22100"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Самара Амбар" period="2 года" days="730" club_num="100" type="Акция -70% (на 2-ой год ) ps" price="28700"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Петрозаводск Лесной" period="3 года" days="1095" club_num="106" type="Акция -80% (на 2ой и 3ий год) ps" price="36400"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Ярославль Нагорный" period="3 года" days="1095" club_num="104" type="Акция -80% (на 2ой и 3ий год) ps" price="36400"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Н.Новгород Московский" period="3 года" days="1095" club_num="81" type="Акция -80% (на 2ой и 3ий год) ps" price="36400"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Ульяновск Созидателей" period="3 года" days="1095" club_num="102" type="Акция -80% (на 2ой и 3ий год) ps" price="36400"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Казань Спартаковский" period="1 год (не более 100 визитов)" days="365" club_num="84" type="1 год (не более 100 визитов) ps" price="17000"/>
+  <POSITION cardtime="свободное посещение" club="FH Петрозаводск Лесной" period="1 год + 3 месяца в подарок" days="456" club_num="106" type="Продление 1 год + 3 месяца в подарок ps" price="26000"/>
+  <POSITION cardtime="свободное посещение" club="FH Н.Новгород Московский" period="1 год + 3 месяца в подарок" days="456" club_num="81" type="Продление 1 год + 3 месяца в подарок ps" price="26000"/>
+  <POSITION cardtime="свободное посещение" club="FH Ярославль Нагорный" period="1 год + 3 месяца в подарок" days="456" club_num="104" type="Продление 1 год + 3 месяца в подарок ps" price="26000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Самара Амбар" period="3 года" days="1095" club_num="100" type="Акция -80% (на 2ой и 3ий год) ps" price="30900"/>
+  <POSITION cardtime="свободное посещение" club="FH Ульяновск Созидателей" period="&quot;1 год&quot;" days="365" club_num="102" type="Предпродажа в клуб в Ульяновске на Октябрьской, 1 год ps" agreediscount="30" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Казань Спартаковский" period="2 года" days="730" club_num="84" type="Акция -70% (на 2-ой год ) ps" price="28700"/>
+  <POSITION cardtime="свободное посещение" club="FH Казань Габишева" period="1 год + 3 месяца в подарок" days="456" club_num="86" type="Продление 1 год + 3 месяца в подарок ps" price="13000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Тольятти Революционная" period="3 года" days="1095" club_num="34" type="Акция -80% (на 2ой и 3ий год) ps" price="21900"/>
+  <POSITION cardtime="свободное посещение" club="FH Н.Новгород Цветы" period="1 год + 3 месяца в подарок" days="456" club_num="85" type="Продление 1 год + 3 месяца в подарок ps" price="26000"/>
+  <POSITION cardtime="свободное посещение" club="FH Ульяновск Созидателей" period="1 год + 3 месяца в подарок" days="456" club_num="102" type="Продление 1 год + 3 месяца в подарок ps" price="26000"/>
+  <POSITION cardtime="свободное посещение" club="FH Самара Амбар" period="1 год + 3 месяца в подарок" days="456" club_num="100" type="Продление 1 год + 3 месяца в подарок ps" price="22100"/>
+  <POSITION cardtime="свободное посещение" club="FH Ижевск Матрица" period="1 год + 3 месяца в подарок" days="456" club_num="103" type="Продление 1 год + 3 месяца в подарок ps" price="22100"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Казань Спартаковский" period="3 года" days="1095" club_num="84" type="Акция -80% (на 2ой и 3ий год) ps" price="30900"/>
+  <POSITION cardtime="свободное посещение" club="FH Тольятти Революционная" period="1 год + 3 месяца в подарок" days="456" club_num="34" type="Продление 1 год + 3 месяца в подарок ps" price="15600"/>
+  <POSITION cardtime="свободное посещение" club="FH Казань Спартаковский" period="1 год + 3 месяца в подарок" days="456" club_num="84" type="Продление 1 год + 3 месяца в подарок ps" price="22100"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Архангельск Московский" period="2 года" days="730" club_num="101" type="Акция -70% (на 2-ой год ) ps" price="33800"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH Архангельск Московский" period="3 года" days="1095" club_num="101" type="Акция -80% (на 2ой и 3ий год) ps" price="36400"/>
+  <POSITION cardtime="свободное посещение" club="FH Архангельск Московский" period="1 год + 3 месяца в подарок" days="456" club_num="101" type="Продление 1 год + 3 месяца в подарок ps" price="26000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Левашовском" period="4 месяца" days="121" club_num="40" type="Мультикарта FH&amp;Prestige (LUX) Акция 2 абонемента за 80000 ps" agreediscount="50" price="80000"/>
+  <POSITION cardtime="Утро" club="FH Prestige на Левашовском" period="&quot;1 год&quot;" days="365" club_num="40" type="Акция Мультикарта FH&amp;Prestige (LUX) 1 год Утро ps" price="85000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Пулковском" period="&quot;1 год&quot;" days="365" club_num="43" type="&quot;1 год&quot;. ps" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Хошимина" period="&quot;1 год&quot;" days="365" club_num="42" type="&quot;1 год&quot;. ps" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Гашека" period="&quot;1 год&quot;" days="365" club_num="44" type="&quot;1 год&quot;. ps" price="35000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Крестовском" period="&quot;1 год&quot;" days="365" club_num="32" type="&quot;1 год&quot;. ps" price="27000"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Королева" period="&quot;1 год&quot;" days="365" club_num="41" type="&quot;1 год&quot;. ps" price="27000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Крестовском" period="2 года" days="730" club_num="32" type="Акция -50% на 2ой год ps" price="40500"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Гашека" period="2 года" days="730" club_num="44" type="Акция -50% на 2ой год ps" price="52500"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Королева" period="2 года" days="730" club_num="41" type="Акция -50% на 2ой год ps" price="40500"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Хошимина" period="2 года" days="730" club_num="42" type="Акция -50% на 2ой год ps" price="52500"/>
+  <POSITION cardtime="свободное посещение" club="FH Prestige на Пулковском" period="2 года" days="730" club_num="43" type="Акция -50% на 2ой год ps" price="52500"/>
+  <POSITION cardtime="День" club="FH Prestige на Гашека" period="2 года" days="730" club_num="44" type="Акция 2 года День. ps" agreediscount="50" price="50000"/>
+  <POSITION cardtime="День" club="FH Prestige на Хошимина" period="2 года" days="730" club_num="42" type="Акция 2 года День. ps" agreediscount="50" price="50000"/>
+  <POSITION cardtime="День" club="FH Prestige на Королева" period="2 года" days="730" club_num="41" type="Акция 2 года День. ps" agreediscount="50" price="50000"/>
+  <POSITION cardtime="День" club="FH Prestige на Пулковском" period="2 года" days="730" club_num="43" type="Акция 2 года День. ps" agreediscount="50" price="50000"/>
+  <POSITION cardtime="свободное посещение" club="FH Мурманск Марата" period="&quot;1 год&quot;" days="365" club_num="108" type="Предпродажа в клуб в Мурманске, 1 год ps" price="18000"/>
+  <POSITION cardtime="День" club="FH на Крестовском" period="2 года" days="730" club_num="32" type="Акция 2 года День. ps" agreediscount="50" price="50000"/>
+  <POSITION cardtime="свободное посещение" club="FH Мурманск Марата" period="2 года" days="730" club_num="108" type="Предпродажа в клуб в Мурманске, Акция -50% (на 2й год) ps" price="27000"/>
+  <POSITION cardtime="свободное посещение" club="FH Мурманск Марата" period="3 года" days="1095" club_num="108" type="Предпродажа в клуб в Мурманске, Акция! -80% (на 3й год) ps" price="30600"/>
+  <POSITION cardtime="свободное посещение" club="FH Рязань Чкалова" period="&quot;1 год&quot;" days="365" club_num="107" type="Предпродажа в клуб в Рязани на Чкалова, 1 год ps" price="16900"/>
+  <POSITION cardtime="свободное посещение" club="FH Рязань Чкалова" period="2 года" days="730" club_num="107" type="Предпродажа в клуб в Рязани на Чкалова, Акция -50% (на 2й год) ps" price="25400"/>
+  <POSITION cardtime="свободное посещение" club="FH Рязань Чкалова" period="3 года" days="1095" club_num="107" type="Предпродажа в клуб в Рязани на Чкалова, Акция! -80% (на 3й год) ps" price="28800"/>
+  <POSITION cardtime="свободное посещение" club="FH Ульяновск Октябрьская" period="&quot;1 год&quot;" days="365" club_num="110" type="Предпродажа в клуб в Ульяновске на Октябрьской, 1 год ps" agreediscount="30" price="25000"/>
+  <POSITION cardtime="свободное посещение" club="FH Ульяновск Октябрьская" period="2 года" days="730" club_num="110" type="Предпродажа в клуб в Ульяновске на Октябрьской, Акция -50% (на 2й год) ps" price="26300"/>
+  <POSITION cardtime="свободное посещение" club="FH Ульяновск Октябрьская" period="3 года" days="1095" club_num="110" type="Предпродажа в клуб в Ульяновске на Октябрьской, Акция! -80% (на 3й год) ps" price="29800"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пулковском" period="&quot;1 год&quot;" days="365" club_num="12" type="&quot;1 год&quot; ps" agreediscount="40" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Стачек" period="&quot;1 год&quot;" days="365" club_num="15" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Выборгской наб." period="&quot;1 год&quot;" days="365" club_num="36" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Таллинском" period="&quot;1 год&quot;" days="365" club_num="67" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Рыбацком" period="&quot;1 год&quot;" days="365" club_num="39" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Большевиков" period="&quot;1 год&quot;" days="365" club_num="55" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Гатчине" period="&quot;1 год&quot;" days="365" club_num="31" type="&quot;1 год&quot; ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Софийской" period="&quot;1 год&quot;" days="365" club_num="78" type="&quot;1 год&quot; ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Маршала Блюхера" period="&quot;1 год&quot;" days="365" club_num="79" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Профессора Попова (ЛДМ)" period="&quot;1 год&quot;" days="365" club_num="37" type="&quot;1 год&quot; ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Северном" period="&quot;1 год&quot;" days="365" club_num="58" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Лахте" period="&quot;1 год&quot;" days="365" club_num="16" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ладожской" period="&quot;1 год&quot;" days="365" club_num="26" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Гашека" period="&quot;1 год&quot;" days="365" club_num="38" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Савушкина" period="&quot;1 год&quot;" days="365" club_num="17" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Васильевском" period="&quot;1 год&quot;" days="365" club_num="25" type="&quot;1 год&quot; ps" price="11000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Чкаловской" period="&quot;1 год&quot;" days="365" club_num="13" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Бульваре Новаторов" period="&quot;1 год&quot;" days="365" club_num="35" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ветеранов" period="&quot;1 год&quot;" days="365" club_num="77" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пражской" period="&quot;1 год&quot;" days="365" club_num="28" type="&quot;1 год&quot; ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Кудрово" period="&quot;1 год&quot;" days="365" club_num="54" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пискаревском" period="&quot;1 год&quot;" days="365" club_num="23" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Хасанской" period="&quot;1 год&quot;" days="365" club_num="111" type="&quot;1 год&quot; ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Фучика" period="&quot;1 год&quot;" days="365" club_num="68" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Наличной" period="&quot;1 год&quot;" days="365" club_num="83" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Мебельной" period="&quot;1 год&quot;" days="365" club_num="62" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пулковском" period="1 год (не более 100 визитов)" days="365" club_num="12" type="1 год (не более 100 визитов) ps" agreediscount="30" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Энгельса" period="&quot;1 год&quot;" days="365" club_num="30" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Светлановском" period="&quot;1 год&quot;" days="365" club_num="27" type="&quot;1 год&quot; ps" price="11000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Рыбацком" period="1 год (не более 100 визитов)" days="365" club_num="39" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Выборгской наб." period="1 год (не более 100 визитов)" days="365" club_num="36" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Маршала Блюхера" period="1 год (не более 100 визитов)" days="365" club_num="79" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ленинском" period="&quot;1 год&quot;" days="365" club_num="14" type="&quot;1 год&quot; ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Комендантском" period="&quot;1 год&quot;" days="365" club_num="24" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Девяткино" period="&quot;1 год&quot;" days="365" club_num="18" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Маршала Говорова" period="&quot;1 год&quot;" days="365" club_num="69" type="&quot;1 год&quot; ps" price="20000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Мурино" period="&quot;1 год&quot;" days="365" club_num="82" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Наличной" period="2 года" days="730" club_num="83" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Наставников" period="&quot;1 год&quot;" days="365" club_num="22" type="&quot;1 год&quot; ps" price="11000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Дальневосточном" period="&quot;1 год&quot;" days="365" club_num="56" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Краснопутиловской" period="&quot;1 год&quot;" days="365" club_num="59" type="&quot;1 год&quot; ps" price="23000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Петергофе" period="&quot;1 год&quot;" days="365" club_num="64" type="&quot;1 год&quot; ps" price="11000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Большевиков" period="1 год (не более 100 визитов)" days="365" club_num="55" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Таллинском" period="1 год (не более 100 визитов)" days="365" club_num="67" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Гатчине" period="1 год (не более 100 визитов)" days="365" club_num="31" type="1 год (не более 100 визитов) ps" price="16500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Профессора Попова (ЛДМ)" period="1 год (не более 100 визитов)" days="365" club_num="37" type="1 год (не более 100 визитов) ps" price="16500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Стачек" period="1 год (не более 100 визитов)" days="365" club_num="15" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Софийской" period="1 год (не более 100 визитов)" days="365" club_num="78" type="1 год (не более 100 визитов) ps" price="16500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Лахте" period="1 год (не более 100 визитов)" days="365" club_num="16" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ладожской" period="1 год (не более 100 визитов)" days="365" club_num="26" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Северном" period="1 год (не более 100 визитов)" days="365" club_num="58" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Гашека" period="1 год (не более 100 визитов)" days="365" club_num="38" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Савушкина" period="1 год (не более 100 визитов)" days="365" club_num="17" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Васильевском" period="1 год (не более 100 визитов)" days="365" club_num="25" type="1 год (не более 100 визитов) ps" price="7900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Бульваре Новаторов" period="1 год (не более 100 визитов)" days="365" club_num="35" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ветеранов" period="1 год (не более 100 визитов)" days="365" club_num="77" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Чкаловской" period="1 год (не более 100 визитов)" days="365" club_num="13" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Кудрово" period="1 год (не более 100 визитов)" days="365" club_num="54" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пискаревском" period="1 год (не более 100 визитов)" days="365" club_num="23" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Хасанской" period="1 год (не более 100 визитов)" days="365" club_num="111" type="1 год (не более 100 визитов) ps" price="16500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Мебельной" period="1 год (не более 100 визитов)" days="365" club_num="62" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пражской" period="1 год (не более 100 визитов)" days="365" club_num="28" type="1 год (не более 100 визитов) ps" price="16500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Фучика" period="1 год (не более 100 визитов)" days="365" club_num="68" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Наличной" period="1 год (не более 100 визитов)" days="365" club_num="83" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Энгельса" period="1 год (не более 100 визитов)" days="365" club_num="30" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Светлановском" period="1 год (не более 100 визитов)" days="365" club_num="27" type="1 год (не более 100 визитов) ps" price="7900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ленинском" period="1 год (не более 100 визитов)" days="365" club_num="14" type="1 год (не более 100 визитов) ps" price="16500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Девяткино" period="1 год (не более 100 визитов)" days="365" club_num="18" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Наставников" period="1 год (не более 100 визитов)" days="365" club_num="22" type="1 год (не более 100 визитов) ps" price="7900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Мурино" period="1 год (не более 100 визитов)" days="365" club_num="82" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Комендантском" period="1 год (не более 100 визитов)" days="365" club_num="24" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Дальневосточном" period="1 год (не более 100 визитов)" days="365" club_num="56" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Маршала Говорова" period="1 год (не более 100 визитов)" days="365" club_num="69" type="1 год (не более 100 визитов) ps" price="16500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Краснопутиловской" period="1 год (не более 100 визитов)" days="365" club_num="59" type="1 год (не более 100 визитов) ps" price="18500"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Петергофе" period="1 год (не более 100 визитов)" days="365" club_num="64" type="1 год (не более 100 визитов) ps" price="7900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пулковском" period="3 года" days="1095" club_num="12" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Хасанской" period="3 года" days="1095" club_num="111" type="Акция -80% (на 2ой и 3ий год) ps" price="28000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Мурино" period="2 года" days="730" club_num="82" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Мурино" period="3 года" days="1095" club_num="82" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Профессора Попова (ЛДМ)" period="2 года" days="730" club_num="37" type="Акция -70% (на 2-ой год ) ps" price="26000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Маршала Говорова" period="3 года" days="1095" club_num="69" type="Акция -80% (на 2ой и 3ий год) ps" price="28000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Профессора Попова (ЛДМ)" period="3 года" days="1095" club_num="37" type="Акция -80% (на 2ой и 3ий год) ps" price="28000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Краснопутиловской" period="2 года" days="730" club_num="59" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Наличной" period="3 года" days="1095" club_num="83" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Маршала Говорова" period="2 года" days="730" club_num="69" type="Акция -70% (на 2-ой год ) ps" price="26000"/>
+  <POSITION cardtime="Утро" club="FH на Наличной" period="2 года" days="730" club_num="83" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION cardtime="Утро" club="FH в Рыбацком" period="2 года" days="730" club_num="39" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION cardtime="Утро" club="FH на Пулковском" period="2 года" days="730" club_num="12" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION cardtime="Утро" club="FH на Профессора Попова (ЛДМ)" period="2 года" days="730" club_num="37" type="Продление 2 года (Утро) ps" price="22000"/>
+  <POSITION cardtime="Утро" club="FH на Хасанской" period="2 года" days="730" club_num="111" type="Продление 2 года (Утро) ps" price="22000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Гатчине" period="2 года" days="730" club_num="31" type="Акция -70% (на 2-ой год ) ps" price="26000"/>
+  <POSITION cardtime="Утро" club="FH в Мурино" period="2 года" days="730" club_num="82" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Гатчине" period="3 года" days="1095" club_num="31" type="Акция -80% (на 2ой и 3ий год) ps" price="28000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Петергофе" period="2 года" days="730" club_num="64" type="Акция -70% (на 2-ой год ) ps" price="14300"/>
+  <POSITION cardtime="Утро" club="FH на Маршала Говорова" period="2 года" days="730" club_num="69" type="Продление 2 года (Утро) ps" price="22000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Маршала Блюхера" period="2 года" days="730" club_num="79" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Петергофе" period="3 года" days="1095" club_num="64" type="Акция -80% (на 2ой и 3ий год) ps" price="15400"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Маршала Блюхера" period="3 года" days="1095" club_num="79" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION cardtime="Утро" club="FH в Гатчине" period="2 года" days="730" club_num="31" type="Продление 2 года (Утро) ps" price="22000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ленинском" period="3 года" days="1095" club_num="14" type="Акция -80% (на 2ой и 3ий год) ps" price="28000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Светлановском" period="2 года" days="730" club_num="27" type="Акция -70% (на 2-ой год ) ps" price="14300"/>
+  <POSITION cardtime="Утро" club="FH на Ленинском" period="2 года" days="730" club_num="14" type="Продление 2 года (Утро) ps" price="22000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Наставников" period="2 года" days="730" club_num="22" type="Акция -70% (на 2-ой год ) ps" price="14300"/>
+  <POSITION cardtime="Утро" club="FH в Петергофе" period="2 года" days="730" club_num="64" type="Продление 2 года (Утро) ps" price="12000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Чкаловской" period="2 года" days="730" club_num="13" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Светлановском" period="3 года" days="1095" club_num="27" type="Акция -80% (на 2ой и 3ий год) ps" price="15400"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Чкаловской" period="3 года" days="1095" club_num="13" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Наставников" period="3 года" days="1095" club_num="22" type="Акция -80% (на 2ой и 3ий год) ps" price="15400"/>
+  <POSITION cardtime="Утро" club="FH на Маршала Блюхера" period="2 года" days="730" club_num="79" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION cardtime="Утро" club="FH в Светлановском" period="2 года" days="730" club_num="27" type="Продление 2 года (Утро) ps" price="12000"/>
+  <POSITION cardtime="Утро" club="FH на Наставников" period="2 года" days="730" club_num="22" type="Продление 2 года (Утро) ps" price="12000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Кудрово" period="2 года" days="730" club_num="54" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION cardtime="Утро" club="FH на Чкаловской" period="2 года" days="730" club_num="13" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Васильевском" period="2 года" days="730" club_num="25" type="Акция -70% (на 2-ой год ) ps" price="14300"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Кудрово" period="3 года" days="1095" club_num="54" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Васильевском" period="3 года" days="1095" club_num="25" type="Акция -80% (на 2ой и 3ий год) ps" price="15400"/>
+  <POSITION cardtime="Утро" club="FH в Кудрово" period="2 года" days="730" club_num="54" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пражской" period="3 года" days="1095" club_num="28" type="Акция -80% (на 2ой и 3ий год) ps" price="28000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пражской" period="2 года" days="730" club_num="28" type="Акция -70% (на 2-ой год ) ps" price="26000"/>
+  <POSITION cardtime="Утро" club="FH на Васильевском" period="2 года" days="730" club_num="25" type="Продление 2 года (Утро) ps" price="12000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Лахте" period="2 года" days="730" club_num="16" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ветеранов" period="2 года" days="730" club_num="77" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Лахте" period="3 года" days="1095" club_num="16" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION cardtime="Утро" club="FH на Пражской" period="2 года" days="730" club_num="28" type="Продление 2 года (Утро) ps" price="22000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ветеранов" period="3 года" days="1095" club_num="77" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION cardtime="Утро" club="FH в Лахте" period="2 года" days="730" club_num="16" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION cardtime="Утро" club="FH на Ветеранов" period="2 года" days="730" club_num="77" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Комендантском" period="2 года" days="730" club_num="24" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Бульваре Новаторов" period="2 года" days="730" club_num="35" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Комендантском" period="3 года" days="1095" club_num="24" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Мебельной" period="2 года" days="730" club_num="62" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Северном" period="2 года" days="730" club_num="58" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Бульваре Новаторов" period="3 года" days="1095" club_num="35" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Фучика" period="2 года" days="730" club_num="68" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Дальневосточном" period="2 года" days="730" club_num="56" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Мебельной" period="3 года" days="1095" club_num="62" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION cardtime="Утро" club="FH на Бульваре Новаторов" period="2 года" days="730" club_num="35" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Стачек" period="2 года" days="730" club_num="15" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Фучика" period="3 года" days="1095" club_num="68" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Девяткино" period="2 года" days="730" club_num="18" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION cardtime="Утро" club="FH на Мебельной" period="2 года" days="730" club_num="62" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Большевиков" period="2 года" days="730" club_num="55" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Стачек" period="3 года" days="1095" club_num="15" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION cardtime="Утро" club="FH на Фучика" period="2 года" days="730" club_num="68" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Северном" period="3 года" days="1095" club_num="58" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH в Девяткино" period="3 года" days="1095" club_num="18" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Большевиков" period="3 года" days="1095" club_num="55" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Гашека" period="2 года" days="730" club_num="38" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Выборгской наб." period="2 года" days="730" club_num="36" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION cardtime="Утро" club="FH на Стачек" period="2 года" days="730" club_num="15" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION cardtime="Утро" club="FH в Девяткино" period="2 года" days="730" club_num="18" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Таллинском" period="2 года" days="730" club_num="67" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION cardtime="Утро" club="FH на Большевиков" period="2 года" days="730" club_num="55" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Гашека" period="3 года" days="1095" club_num="38" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Выборгской наб." period="3 года" days="1095" club_num="36" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Дальневосточном" period="3 года" days="1095" club_num="56" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Таллинском" period="3 года" days="1095" club_num="67" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION cardtime="Утро" club="FH на Выборгской наб." period="2 года" days="730" club_num="36" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION cardtime="Утро" club="FH на Дальневосточном" period="2 года" days="730" club_num="56" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Софийской" period="2 года" days="730" club_num="78" type="Акция -70% (на 2-ой год ) ps" price="26000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ладожской" period="2 года" days="730" club_num="26" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION cardtime="Утро" club="FH на Гашека" period="2 года" days="730" club_num="38" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION cardtime="Утро" club="FH на Комендантском" period="2 года" days="730" club_num="24" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Энгельса" period="2 года" days="730" club_num="30" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Софийской" period="3 года" days="1095" club_num="78" type="Акция -80% (на 2ой и 3ий год) ps" price="28000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Ладожской" period="3 года" days="1095" club_num="26" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION cardtime="Утро" club="FH на Софийской" period="2 года" days="730" club_num="78" type="Продление 2 года (Утро) ps" price="22000"/>
+  <POSITION cardtime="Утро" club="FH на Таллинском" period="2 года" days="730" club_num="67" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Энгельса" period="3 года" days="1095" club_num="30" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION cardtime="Утро" club="FH на Ладожской" period="2 года" days="730" club_num="26" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION cardtime="Утро" club="FH на Северном" period="2 года" days="730" club_num="58" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION cardtime="Утро" club="FH на Энгельса" period="2 года" days="730" club_num="30" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Савушкина" period="2 года" days="730" club_num="17" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Савушкина" period="3 года" days="1095" club_num="17" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION cardtime="Утро" club="FH на Савушкина" period="2 года" days="730" club_num="17" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Краснопутиловской" period="3 года" days="1095" club_num="59" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пискаревском" period="2 года" days="730" club_num="23" type="Акция -70% (на 2-ой год ) ps" price="29900"/>
+  <POSITION webdiscount="2" cardtime="свободное посещение" club="FH на Пискаревском" period="3 года" days="1095" club_num="23" type="Акция -80% (на 2ой и 3ий год) ps" price="32200"/>
+  <POSITION cardtime="Утро" club="FH на Пискаревском" period="2 года" days="730" club_num="23" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION cardtime="Утро" club="FH на Краснопутиловской" period="2 года" days="730" club_num="59" type="Продление 2 года (Утро) ps" price="25000"/>
+  <POSITION cardtime="свободное посещение" club="FH на Культуры" period="&quot;1 год&quot;" days="365" club_num="29" type="Продление 1 год ps" price="19500"/>
+  <POSITION cardtime="свободное посещение" club="FH Самара Шипка" period="&quot;1 год&quot;" days="365" club_num="114" type="&quot;Мультикарта Fitness House&quot; ps" price="45000"/>
+  <POSITION cardtime="свободное посещение" club="FH Самара Шипка" period="1 год (не более 100 визитов)" days="365" club_num="114" type="1 год (не более 100 визитов) ps" agreediscount="30" price="22000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Самара Шипка" period="&quot;1 год&quot;" days="365" club_num="114" type="Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps" price="20900"/>
+  <POSITION cardtime="свободное посещение" club="FH Самара Шипка" period="&quot;1 год&quot;" days="365" club_num="114" type="Акция 1 год ps" agreediscount="50" price="34000"/>
+  <POSITION cardtime="свободное посещение" club="FH Самара Шипка" period="2 года + 4 месяца в подарок" days="851" club_num="114" type="Продление 2 года + 4 месяца в подарок ps" price="30000"/>
+  <POSITION cardtime="с 15 до 22 сб, вс" club="FH Самара Шипка" period="&quot;1 год&quot;" days="365" club_num="114" type="Семейный договор выходного дня (1 взрослый) с 15 до 22 ps" price="7600"/>
+  <POSITION cardtime="свободное посещение" club="FH Самара Шипка" period="&quot;1 год&quot;" days="365" club_num="114" type="1 год VIP ps" agreediscount="50" price="50000"/>
+  <POSITION cardtime="Утро" club="FH Самара Шипка" period="&quot;1 год&quot;" days="365" club_num="114" type="Акция &quot;2 по цене 1&quot;, Утро ps" agreediscount="50" price="17000"/>
+ </PRICELIST>
+</RESPONSE>

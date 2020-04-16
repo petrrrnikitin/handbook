@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE type="get_clubs">
+<DISTRICTS>	
+<DISTRICT district ="Адмиралтейский" city_id="1"/>
+<DISTRICT district ="Василеостровский" city_id="1"/>
+<DISTRICT district ="Выборгский" city_id="1"/>
+<DISTRICT district ="Калининский" city_id="1"/>
+<DISTRICT district ="Кировский" city_id="1"/>
+<DISTRICT district ="Колпинский" city_id="1"/>
+<DISTRICT district ="Красногвардейский" city_id="1"/>
+<DISTRICT district ="Красносельский" city_id="1"/>
+<DISTRICT district ="Кронштадтский" city_id="1"/>
+<DISTRICT district ="Курортный" city_id="1"/>
+<DISTRICT district ="Московский" city_id="1"/>
+<DISTRICT district ="Невский" city_id="1"/>
+<DISTRICT district ="Петроградский" city_id="1"/>
+<DISTRICT district ="Петродворцовый" city_id="1"/>
+<DISTRICT district ="Приморский" city_id="1"/>
+<DISTRICT district ="Пушкинский" city_id="1"/>
+<DISTRICT district ="Фрунзенский" city_id="1"/>
+<DISTRICT district ="Центральный" city_id="1"/>
+<DISTRICT district ="Канавинский" city_id="2"/>
+<DISTRICT district ="Приокский" city_id="2"/>
+<DISTRICT district ="Вахитовский" city_id="3"/>
+<DISTRICT district ="Приволжский" city_id="3"/>
+<DISTRICT district ="Автозаводский" city_id="4"/>
+<DISTRICT district ="Куйбышевский" city_id="5"/>
+<DISTRICT district ="Промышленный" city_id="5"/>
+<DISTRICT district ="Заволжский" city_id="6"/>
+<DISTRICT district ="Засвияжский" city_id="6"/>
+<DISTRICT district ="Майская горка" city_id="7"/>
+<DISTRICT district ="Ленинский" city_id="8"/>
+<DISTRICT district ="Ярославский" city_id="9"/>
+<DISTRICT district ="Древлянка" city_id="11"/>
+<DISTRICT district ="Железнодорожный" city_id="12"/>
+<DISTRICT district ="Октябрьский" city_id="13"/>
+<DISTRICT district ="Всеволожский" city_id="15"/>		
+</DISTRICTS>	
+<METROS>
+<METRO metro="Адмиралтейская" district_id="18"/>
+<METRO metro="Академическая" district_id="4"/>
+<METRO metro="Беговая" district_id="15"/>
+<METRO metro="Бухарестская" district_id="17"/>
+<METRO metro="Василеостровская" district_id="2"/>
+<METRO metro="Выборгская" district_id="3"/>
+<METRO metro="Гражданский проспект" district_id="4"/>
+<METRO metro="Девяткино" district_id="34"/>
+<METRO metro="Достоевская" district_id="18"/>
+<METRO metro="Звёздная" district_id="11"/>
+<METRO metro="Кировский завод" district_id="5"/>
+<METRO metro="Комендантский проспект" district_id="15"/>
+<METRO metro="Крестовский остров" district_id="13"/>
+<METRO metro="Купчино" district_id="17"/>
+<METRO metro="Ладожская" district_id="7"/>
+<METRO metro="Ленинский проспект" district_id="5"/>
+<METRO metro="Лесная" district_id="3"/>
+<METRO metro="Международная" district_id="17"/>
+<METRO metro="Московская" district_id="11"/>
+<METRO metro="Новочеркасская" district_id="7"/>
+<METRO metro="Озерки" district_id="3"/>
+<METRO metro="Пионерская" district_id="15"/>
+<METRO metro="Приморская" district_id="2"/>
+<METRO metro="Проспект Большевиков" district_id="12"/>
+<METRO metro="Проспект Ветеранов" district_id="5"/>
+<METRO metro="Проспект Просвещения" district_id="3"/>
+<METRO metro="Рыбацкое" district_id="12"/>
+<METRO metro="Старая деревня" district_id="15"/>
+<METRO metro="Удельная" district_id="3"/>
+<METRO metro="Улица Дыбенко" district_id="12"/>
+<METRO metro="Чкаловская" district_id="13"/>
+<METRO metro="Чёрная речка" district_id="15"/>
+<METRO metro="Канавинская" district_id="19"/>
+<METRO metro="Горьковская" district_id="20"/>
+<METRO metro="Проспект Победы" district_id="22"/>
+<METRO metro="Суконная Слобода" district_id="21"/>
+</METROS>
+</RESPONSE>
